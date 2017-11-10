@@ -1,0 +1,65 @@
+[33m0b148da[m Done. [31m(Nikolai Pawlowski, 2 weeks ago)[m
+[33maffda50[m Done. [31m(Nikolai Pawlowski, 2 weeks ago)[m
+[33ma58c974[m Add note on commenting out pending tests [31m(Gabe Jackson, 9 weeks ago)[m
+[33me6cb422[m Merge pull request #22 from learn-co-curriculum/spec-fix [31m(Avidor Turkewitz, 1 year, 1 month ago)[m
+[33md3d9451[m Merge conflict [31m(Avidor Turkewitz, 1 year, 1 month ago)[m
+[33m79da6b9[m Merge pull request #24 from Lukeghenco/fix-pokemon-spec [31m(Peter Bell, 1 year, 3 months ago)[m
+[33m1c21adc[m Fixed pokemon_spec to now state right requirements [31m(Luke, 1 year, 3 months ago)[m
+[33meea2594[m fixed spec tests, added executable file to test code [31m(JJ Seymour, 1 year, 3 months ago)[m
+[33m91f8c59[m updated solution for updated spec tests [31m(JJ Seymour, 1 year, 3 months ago)[m
+[33m2520ef6[m Add bonus specs (marked as pending) [31m(Charles Pletcher, 1 year, 4 months ago)[m
+[33ma0ecb14[m Add bonus section [31m(Charles Pletcher, 1 year, 6 months ago)[m
+[33m81e1d0c[m Add migration back in [31m(Charles Pletcher, 1 year, 7 months ago)[m
+[33ma5c03bd[m Merge pull request #15 from bhollan/master [31m(ruchiramani, 1 year, 8 months ago)[m
+[33mcc081ce[m add `[ ]` around answer [31m(Brian Holland, 1 year, 8 months ago)[m
+[33m2236667[m remove solution in master branch [31m(Brian Holland, 1 year, 8 months ago)[m
+[33mfdca04e[m fix typo [31m(Brian Holland, 1 year, 8 months ago)[m
+[33m709d328[m Merge pull request #13 from learn-co-curriculum/wip-master [31m(Charles Pletcher, 1 year, 8 months ago)[m
+[33m456daf1[m issue #8 [31m(vicfriedman, 1 year, 8 months ago)[m
+[33m1c257e0[m optimize learn link [processing skip] [31m(Adam Jonas, 1 year, 9 months ago)[m
+[33mb38f7ee[m Merge pull request #9 from febbraiod/febbraiod-1452721836 [31m(AnnJohn, 1 year, 10 months ago)[m
+[33mc1e946c[m Added a much more helpful link for the execute method(credit to lukeghenco for helping me find it) [31m(Don, 1 year, 10 months ago)[m
+[33me693303[m add learn link [processing skip] [31m(Adam Jonas, 1 year, 11 months ago)[m
+[33m928990d[m Merge pull request #6 from learn-co-curriculum/wip-fixes [31m(Danny Sullivan, 2 years ago)[m
+[33ma0249de[m removed solution [31m(Danny-Sullivan, 2 years ago)[m
+[33mf73d73c[m added pokemon .save and .find specs [31m(Danny-Sullivan, 2 years ago)[m
+[33m80a1a86[m updated readme, added schema_migration.sql, added new specs [31m(Danny-Sullivan, 2 years ago)[m
+[33m0a7d4ee[m fixed merge conflict [31m(Danny-Sullivan, 2 years ago)[m
+[33m7d893ff[m removed pokemon class [31m(Danny-Sullivan, 2 years ago)[m
+[33mba93333[m Initial commit [31m(Danny Sullivan, 2 years ago)[m
+[33m67eb6bb[m typo [31m(Danny-Sullivan, 2 years, 1 month ago)[m
+[33mca39102[m readme wip [31m(Danny-Sullivan, 2 years, 1 month ago)[m
+[33ma6050ad[m added scraper class [31m(Danny-Sullivan, 2 years, 1 month ago)[m
+[33mef559e1[m Add contributing instructions [31m(Spencer Rogers, 2 years, 2 months ago)[m
+[33m1659e04[m Merge pull request #2 from babyshoes/babyshoes-1439677468 [31m(AnnJohn, 2 years, 3 months ago)[m
+[33m562f585[m Updated README.md [31m(babyshoes, 2 years, 3 months ago)[m
+[33mb95736f[m Merge pull request #1 from learn-co-curriculum/amanda [31m(Steven Nunez, 2 years, 3 months ago)[m
+[33m99f581d[m Add DB spec [31m(changamanda, 2 years, 3 months ago)[m
+[33m4cd3456[m Test order default [31m(Amanda Chang, 2 years, 3 months ago)[m
+[33mff6487b[m remove front matter [31m(The Learn Team, 2 years, 3 months ago)[m
+[33m3581b3f[m remove front matter [31m(The Learn Team, 2 years, 3 months ago)[m
+[33m41715ad[m Add content license [31m(The Learn Team, 2 years, 5 months ago)[m
+[33m889c49f[m Fix Typo [31m(Joshua Owens, 2 years, 7 months ago)[m
+[33ma8808ff[m dot learn added by fs-lms-bot [31m(Beyonce Jabroni, 2 years, 8 months ago)[m
+[33me48cd2c[m fixed spec [31m(Ian Miller, 2 years, 9 months ago)[m
+[33m123d392[m remove weird file, gems [31m(ahimmelstoss, 3 years ago)[m
+[33m65541b5[m updates rspec [31m(Tristan Siegel, 3 years, 4 months ago)[m
+[33m4ba9b30[m reverts environment and migrations [31m(Tristan Siegel, 3 years, 4 months ago)[m
+[33m624f0e1[m reverts models [31m(Tristan Siegel, 3 years, 4 months ago)[m
+[33m9ebac64[m reverts rspec tests [31m(Tristan Siegel, 3 years, 4 months ago)[m
+[33mc1637a9[m finishes solution [31m(Tristan Siegel, 3 years, 4 months ago)[m
+[33mc97266e[m finishes bonus specs and readme, begins solving them [31m(Tristan Siegel, 3 years, 5 months ago)[m
+[33m39107e4[m gemfile.lock changes [31m(Tristan Siegel, 3 years, 5 months ago)[m
+[33m17446a9[m updates readme to talk about sanitizing params [31m(Tristan Siegel, 3 years, 5 months ago)[m
+[33mca2d567[m finishes solution [31m(Tristan Siegel, 3 years, 5 months ago)[m
+[33mdc08b54[m alters readme and begins solution [31m(Tristan Siegel, 3 years, 5 months ago)[m
+[33m324ad87[m fixes path for sql_runner [31m(Tristan Siegel, 3 years, 5 months ago)[m
+[33mdfaa6f0[m adds queries to rspec [31m(Tristan Siegel, 3 years, 5 months ago)[m
+[33mbcff845[m adds gitignore [31m(Tristan Siegel, 3 years, 5 months ago)[m
+[33mfa9fdff[m fixes path of db connection [31m(Tristan Siegel, 3 years, 5 months ago)[m
+[33mc58672a[m corrects error in spec [31m(Tristan Siegel, 3 years, 5 months ago)[m
+[33m5d1a03c[m adds db and db connection [31m(Tristan Siegel, 3 years, 5 months ago)[m
+[33m31f8cc3[m changes made by arel [31m(Tristan Siegel, 3 years, 5 months ago)[m
+[33mc8a9775[m finishes readme and basic spec [31m(Tristan Siegel, 3 years, 5 months ago)[m
+[33me8d8d04[m finishes basic readme adds specs [31m(Tristan Siegel, 3 years, 5 months ago)[m
+[33m8f45440[m initial commit and sets up basic file structure [31m(Tristan Siegel, 3 years, 5 months ago)[m
